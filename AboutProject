@@ -1,0 +1,3 @@
+HelloVM.java calls all the functions such as create snapshot,refresh snapshot,cloning & migration of VM..
+
+VM is failed to initiate Recovery process by removing NIC(NIC is removed after 3 pings )
